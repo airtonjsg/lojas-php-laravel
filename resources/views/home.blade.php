@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    You are logged in!
+                    You are logged in home.blade.php!
                 </div>
             </div>
         </div>
